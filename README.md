@@ -1,8 +1,8 @@
 The purpose of this program is to perform simulation of a building's elevator system that processes passenger requests. You will need to input parameters to the simulation representing the number of floors in the building, the number of elevators, the simulation length in time units, and the percent chance that a passenger will place a new elevator request during each time unit. The following list of details further describes how the simulation will be run:
 
-#There will be one queue of requests for the simulation. The queue is a standard FIFO queue, meaning that the first request placed is the first to be granted.
+There will be one queue of requests for the simulation. The queue is a standard FIFO queue, meaning that the first request placed is the first to be granted.
 
-#Each elevator can only handle one passenger at a time.
+Each elevator can only handle one passenger at a time.
 
 #A single time unit represents the amount of time it takes for the elevator to move up or down one floor.
 
